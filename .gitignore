@@ -1,0 +1,13 @@
+# EDTformer source is an external dependency, re-cloned on setup (see README).
+repo/
+
+# Pipeline outputs
+output/
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
